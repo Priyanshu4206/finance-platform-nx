@@ -6,11 +6,11 @@ export default defineConfig(() => ({
   root: __dirname,
   cacheDir: '../../node_modules/.vite/apps/broker-platform',
   server: {
-    port: 4204,
+    port: 4202,
     host: 'localhost',
   },
   preview: {
-    port: 4204,
+    port: 4202,
     host: 'localhost',
   },
   plugins: [react()],
