@@ -5,6 +5,27 @@
   "references": [
     {
       "path": "./apps/admin-platform"
+    },
+    {
+      "path": "./apps/bdm-platform"
+    },
+    {
+      "path": "./apps/client-platform"
+    },
+    {
+      "path": "./apps/broker-platform"
+    },
+    {
+      "path": "./libs/shared-ui"
+    },
+    {
+      "path": "./libs/auth"
+    },
+    {
+      "path": "./libs/services"
+    },
+    {
+      "path": "./libs/store"
     }
   ]
 }
